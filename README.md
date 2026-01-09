@@ -65,10 +65,4 @@ Experienced working with *production-scale applications* and cross-functional te
 
 ---
 
-
-### 📫 CONTACT
-📧 fazaldinarain@gmail.com  
-💼 https://linkedin.com/in/fazaldin-arain  
-🐙 https://github.com/FazalDinArain  
-
 ⭐ Open to backend-focused & scalable system opportunities
