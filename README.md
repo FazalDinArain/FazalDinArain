@@ -16,11 +16,9 @@ Experienced working with *production-scale applications* and cross-functional te
 
 ## 🛠️ Tech Stack
 
-### Backend (Primary)
+### Backend
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
-
-### Backend (Additional)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
@@ -38,9 +36,6 @@ Experienced working with *production-scale applications* and cross-functional te
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FazalDinArain)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-
-### Other
-RESTful APIs • Backend Architecture • Database Design
 
 ---
 
