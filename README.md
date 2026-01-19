@@ -44,7 +44,7 @@ Experienced working with *production-scale applications* and cross-functional te
   - Laravel & NestJS APIs for production systems  
   - Reduced API response time by *30%* via query optimization  
 
-- **PHP / Full Stack Developer**  
+- **PHP / Full Stack Developer @ IFMP**  
   - Built admin panels, payment integrations & REST APIs  
   - Optimized backend logic improving performance by *25%*
 
